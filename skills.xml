@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Git>GitHub/GitBash</Git>
+<API>Postman</API>
+<DevTools>Google Chrome/FireFox</DevTools>
+<Sniffing>Charles/Fiddler</Sniffing>
+<Webtesting>HTTP/JSON/XML</Webtesting>
+<Mobiletesting>Android Studio/XCode</Mobiletesting>
+<SQL>create/delete/drop/insert into/select/from/where/join</SQL>
+<DB>Postgres/Redis</DB>
+<Loadtesting>Jmeter</Loadtesting>
+<Programminglanguage>Python</Programminglanguage>
+->ctrl+c->:wq
