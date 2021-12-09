@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<skills>
 <Git>GitHub/GitBash</Git>
 <API>Postman</API>
 <DevTools>Google Chrome/FireFox</DevTools>
@@ -9,4 +10,4 @@
 <DB>Postgres/Redis</DB>
 <Loadtesting>Jmeter</Loadtesting>
 <Programminglanguage>Python</Programminglanguage>
-
+</skills>
